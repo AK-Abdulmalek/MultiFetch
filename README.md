@@ -29,9 +29,10 @@ pip install -r requirements.txt
 ```
 python main.py [URL]
 ```
-To-Do List
- ☐ Episode selection
- ☐ Alternative source option Currently only works with voe.sx
- ☐ Adding more website options
+## To-Do List
+
+- [ ] **Episode Selection**: Allow users to select specific episodes instead of downloading the entire series.
+- [ ] **Alternative Source Option**: Currently, the tool only works with `voe.sx`. Add support for alternative streaming sources.
+- [ ] **More Website Support**: Expand compatibility beyond `s.to` to support other streaming websites.
 
 
