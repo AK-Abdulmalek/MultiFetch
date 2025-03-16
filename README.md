@@ -29,5 +29,9 @@ pip install -r requirements.txt
 ```
 python main.py [URL]
 ```
-   
+To-Do List
+ ☐ Episode selection
+ ☐ Alternative source option Currently only works with voe.sx
+ ☐ Adding more website options
+
 
